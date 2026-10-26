@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formdanhsachloaiphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formdanhsachloaiphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formthemloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formthemloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formsualoaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formsualoaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formdanhsachphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formdanhsachphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formdanhsachphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formdanhsachphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formsualoaiphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formsualoaiphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formsualoaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formsualoaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formthemloaiphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formthemloaiphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formthemloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formthemloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formsuaphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formsuaphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formsuaphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formsuaphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formsuaphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formsuaphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formthemphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formthemphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\phong\\formdanhsachphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phong\\formdanhsachphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\sodophong\\formsodophong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\sodophong\\formsodophong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\formtrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formtrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\models\\hotelmanagementcontext.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\hotelmanagementcontext.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\models\\hotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\hotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|e:\\baitapthayduong\\h\u1ECDc c#\\hotelmanagement\\hotelmanagement\\hotelmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{73C00FB2-E0B3-412C-A2C4-CB50D1C92490}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hotelmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDanhSachLoaiPhong.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAuwBMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:08:19.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDanhSachLoaiPhong.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAuwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:07:02.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormMain.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\FormMain.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormMain.cs*",
+              "RelativeToolTip": "HotelManagement\\FormMain.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:07:51.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormMain.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\FormMain.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormMain.cs [Design]*",
+              "RelativeToolTip": "HotelManagement\\FormMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:03:14.446Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormThemLoaiPhong.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:14:37.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSuaLoaiPhong.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:16:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDanhSachPhong.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormDanhSachPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.cs",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormDanhSachPhong.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:41:35.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDanhSachPhong.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormDanhSachPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormDanhSachPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:38:26.219Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormSuaLoaiPhong.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:15:37.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSuaLoaiPhong.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:15:29.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormThemLoaiPhong.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwIwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:10:56.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormThemLoaiPhong.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:10:47.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormDanhSachLoaiPhong.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:06:47.458Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormThemPhong.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormThemPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.cs",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormThemPhong.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAqwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:49:01.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormSuaPhong.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormSuaPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.cs",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormSuaPhong.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAuwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:53:13.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormThemPhong.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormThemPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormThemPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:46:35.096Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormSoDoPhong.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:25:22.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormSuaPhong.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormSuaPhong.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormSuaPhong.Designer.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:51:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormSuaPhong.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormSuaPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormSuaPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:51:17.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormThemPhong.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormThemPhong.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormThemPhong.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:46:42.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormDanhSachPhong.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:38:31.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\FormMain.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormMain.Designer.cs*",
+              "RelativeToolTip": "HotelManagement\\FormMain.Designer.cs*",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAiwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:04:15.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormSoDoPhong.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
+              "ViewState": "AgIAANABAAAAAAAAAAA6wAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:23:12.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormSoDoPhong.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:23:04.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormTrangChu.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormTrangChu.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\FormTrangChu.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormTrangChu.cs",
+              "RelativeToolTip": "HotelManagement\\FormTrangChu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:16:01.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormTrangChu.Designer.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormTrangChu.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\FormTrangChu.Designer.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\FormTrangChu.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\FormTrangChu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:12:55.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\DangNhap\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\DangNhap\\FormDangNhap.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\DangNhap\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\DangNhap\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:19:34.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Program.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Program.cs",
+              "RelativeToolTip": "HotelManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:44:34.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HotelManagementContext.custom.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Models\\HotelManagementContext.custom.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Models\\HotelManagementContext.custom.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Models\\HotelManagementContext.custom.cs",
+              "RelativeToolTip": "HotelManagement\\Models\\HotelManagementContext.custom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:43:36.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HotelManagementContext.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Models\\HotelManagementContext.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Models\\HotelManagementContext.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Models\\HotelManagementContext.cs",
+              "RelativeToolTip": "HotelManagement\\Models\\HotelManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:05:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Models\\KhachHang.cs",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\Models\\KhachHang.cs",
+              "RelativeToolTip": "HotelManagement\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:43:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HotelManagement",
+              "DocumentMoniker": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
+              "RelativeDocumentMoniker": "HotelManagement\\HotelManagement.csproj",
+              "ToolTip": "E:\\Baitapthayduong\\H\u1ECDc C#\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
+              "RelativeToolTip": "HotelManagement\\HotelManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-26T01:06:59.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
