@@ -1,4 +1,4 @@
-﻿namespace HotelManagement.SoDoPhong
+namespace HotelManagement.SoDoPhong
 {
     partial class FormSoDoPhong
     {
