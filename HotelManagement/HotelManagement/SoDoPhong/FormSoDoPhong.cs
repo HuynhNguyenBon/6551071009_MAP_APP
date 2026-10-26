@@ -1,4 +1,4 @@
-﻿using DocumentFormat.OpenXml.Spreadsheet;
+using DocumentFormat.OpenXml.Spreadsheet;
 using HotelManagement.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -15,7 +15,46 @@ namespace HotelManagement.SoDoPhong
         public FormSoDoPhong()
         {
             InitializeComponent();
+            GanSuKien();
             this.Load += FormSoDoPhong_Load;
+        }
+        private void GanSuKien()
+        {
+            Load -= FormSoDoPhong_Load;
+            Load += FormSoDoPhong_Load;
+
+            // Nhóm Trạng thái phòng
+            GanRadio(rdbPhongTrong, rdbPhongTrong_CheckedChanged);
+            GanRadio(rdbPhongDaDat, rdbPhongDaDat_CheckedChanged);
+            GanRadio(rdbPhongDangThue, rdbPhongDangThue_CheckedChanged);
+            GanRadio(rdbPhongDangSuaChua, rdbPhongDangSuaChua_CheckedChanged);
+            GanRadio(rdbTatCaTrangThaiPhong, rdbTatCaTrangThaiPhong_CheckedChanged);
+
+            // Nhóm Loại phòng
+            GanRadio(rdbPhongThuongDon, rdbPhongThuongDon_CheckedChanged);
+            GanRadio(rdbPhongThuongDoi, rdbPhongThuongDoi_CheckedChanged);
+            GanRadio(rdbPhongVipDon, rdbPhongVipDon_CheckedChanged);
+            GanRadio(rdbPhongVipDoi, rdbPhongVipDoi_CheckedChanged);
+            GanRadio(rdbTatCaLoaiPhong, rdbTatCaLoaiPhong_CheckedChanged);
+
+            // Nhóm Tình trạng dọn dẹp
+            GanRadio(rdbPhongDaDonDep, rdbPhongDaDonDep_CheckedChanged);
+            GanRadio(rdbPhongChuaDon, rdbPhongChuaDon_CheckedChanged);
+            GanRadio(rdbTatCaPhong, rdbTatCaPhong_CheckedChanged);
+
+            txtSearchMaPhong.TextChanged -= txtSearchMaPhong_TextChanged;
+            txtSearchMaPhong.TextChanged += txtSearchMaPhong_TextChanged;
+
+            dtNgayChon.ValueChanged -= dtNgayChon_ValueChanged;
+            dtNgayChon.ValueChanged += dtNgayChon_ValueChanged;
+
+            btnDatPhong.Click -= btnDatPhong_Click;
+            btnDatPhong.Click += btnDatPhong_Click;
+        }
+        private static void GanRadio(RadioButton rdb, EventHandler handler)
+        {
+            rdb.CheckedChanged -= handler;
+            rdb.CheckedChanged += handler;
         }
         private void FormSoDoPhong_Load(object sender, EventArgs e)
         {
